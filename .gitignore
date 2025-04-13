@@ -1,0 +1,14 @@
+# Node (frontend)
+frontend/node_modules
+frontend/.env
+
+# Java (backend)
+buses-api/target/
+buses-api/.idea/
+*.class
+*.log
+*.jar
+
+# General
+.DS_Store
+.vscode/
